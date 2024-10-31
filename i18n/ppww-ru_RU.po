@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Pages with WooCommerce\n"
+"Report-Msgid-Bugs-To: http://support.advancedcustomfields.com\n"
+"POT-Creation-Date: 2019-07-11 23:48+0300\n"
+"PO-Revision-Date: 2019-07-11 23:48+0300\n"
+"Last-Translator: \n"
+"Language-Team: X_SID <shvets.jan@gmail.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ppww.php\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: index.php\n"
+"X-Poedit-SearchPathExcluded-1: i18n\n"
+
+#: includes/class-ppww.php:84
+msgid ""
+"Sorry, but \"Paid Pages with WooCommerce\" requires \"WooCommerce\" to be "
+"installed and active."
+msgstr ""
+"Извините, но для работы \"WooCommerce Paid Access\" необходима установка и "
+"активация \"WooCommerce\"."
+
+#: includes/class-ppww.php:188
+msgid "day"
+msgid_plural "days"
+msgstr[0] "день"
+msgstr[1] "дня"
+msgstr[2] "дней"
+
+#: includes/class-ppww.php:191
+#, php-format
+msgid "%1$d %2$s access for %3$d%4$s"
+msgstr "Доступ на %1$d %2$s за %3$d%4$s"
+
+#: includes/class-ppww.php:208 includes/class-ppww.php:235
+#: includes/class-ppww.php:267
+msgid "Subscription plans"
+msgstr "Планы подписки"
+
+#: includes/class-ppww.php:209
+msgid "Subscription plan"
+msgstr "План подписки"
+
+#: includes/class-ppww.php:210
+msgctxt "plan"
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: includes/class-ppww.php:211
+msgid "Add new plan"
+msgstr "Добавить новый план"
+
+#: includes/class-ppww.php:212
+msgid "Edit plan"
+msgstr "Редактировать план"
+
+#: includes/class-ppww.php:213
+msgid "New plan"
+msgstr "Новый план"
+
+#: includes/class-ppww.php:214
+msgid "View plan"
+msgstr "Посмотреть план"
+
+#: includes/class-ppww.php:215
+msgid "Search for plans"
+msgstr "Искать планы"
+
+#: includes/class-ppww.php:216
+msgid "Plans not found"
+msgstr "Планы не найдены"
+
+#: includes/class-ppww.php:217
+msgid "Plans not found in trash"
+msgstr "Планы не найдены в корзине"
+
+#: includes/class-ppww.php:218
+msgid "All plans"
+msgstr "Все планы"
+
+#: includes/class-ppww.php:219
+msgid "Insert into plan"
+msgstr "Вставить в план"
+
+#: includes/class-ppww.php:220
+msgid "Uploaded to this plan"
+msgstr "Загружено для этого плана"
+
+#: includes/class-ppww.php:221
+msgid "Plan's featured image"
+msgstr "Миниатюра плана"
+
+#: includes/class-ppww.php:222
+msgid "Set plan's featured image"
+msgstr "Установить миниатюру плана"
+
+#: includes/class-ppww.php:223
+msgid "Remove plan's featured image"
+msgstr "Удалить миниатюру плана"
+
+#: includes/class-ppww.php:224
+msgid "Use as plan's featured image"
+msgstr "Использовать как миниатюру плана"
+
+#: includes/class-ppww.php:225
+msgid "Filter list of plans"
+msgstr "Фильтровать список планов"
+
+#: includes/class-ppww.php:226
+msgid "Plans list navigation"
+msgstr "Навигация по планам"
+
+#: includes/class-ppww.php:227
+msgid "List of plans"
+msgstr "Список планов"
+
+#: includes/class-ppww.php:228
+msgid "View plans"
+msgstr "Посмотреть планы"
+
+#: includes/class-ppww.php:229
+msgid "Plan's attributes"
+msgstr "Свойства плана"
+
+#: includes/class-ppww.php:230
+msgid "Plan updated"
+msgstr "План обновлен"
+
+#: includes/class-ppww.php:231
+msgid "Plan published"
+msgstr "План опубликован"
+
+#: includes/class-ppww_metabox.php:51
+msgid "Plan attributes"
+msgstr "Свойства плана"
+
+#: includes/class-ppww_metabox.php:60 includes/class-ppww_metabox.php:96
+msgid "Paid access"
+msgstr "Платный доступ"
+
+#: includes/class-ppww_metabox.php:101
+msgid "Subscription plan:"
+msgstr "План подписки:"
+
+#: includes/class-ppww_metabox.php:103
+msgid "None"
+msgstr "Нет"
+
+#: includes/class-ppww_metabox.php:142
+msgid ""
+"[number of days]=[price] pairs. Separate values ​​with commas e.g. "
+"1=10,7=20,30=50,365=100."
+msgstr ""
+"Пары [количество дней]=[цена]. Разделяйте значения запятыми, например "
+"1=10,7=20,30=50,365=100."
+
+#: includes/class-ppww_metabox.php:152
+msgid ""
+"Override default message header about access restriction. Leave blank to use "
+"default header."
+msgstr ""
+"Заменить заголовок сообщения по умолчанию о запрете доступа. Оставьте "
+"пустым, чтобы использовать заголовок по умолчанию."
+
+#: includes/class-ppww_metabox.php:156
+msgid "Use '*' to completely hide the header."
+msgstr "Используйте '*' чтобы полностью скрыть заголовок."
+
+#: includes/class-ppww_metabox.php:163
+msgid ""
+"Override default message body about access restriction. Leave blank to use "
+"default body."
+msgstr ""
+"Заменить тело сообщения по умолчанию о запрете доступа. Оставьте пустым, "
+"чтобы использовать тело сообщения по умолчанию."
+
+#: includes/class-ppww_metabox.php:167
+msgid "Use '*' to completely hide the body."
+msgstr "Используйте '*' чтобы полностью скрыть тело сообщения."
+
+#: includes/class-ppww_metabox.php:174
+msgid "Wrap overrided page content?"
+msgstr "Оборачивать измененное содержимое страницы?"
+
+#: includes/class-ppww_metabox.php:179
+msgid "no wrap"
+msgstr "не оборачивать"
+
+#: includes/class-ppww_metabox.php:184
+msgid "Bootstrap 4 container"
+msgstr "Bootstrap 4 контейнер"
+
+#: includes/class-ppww_metabox.php:194
+msgid ""
+"If you like this plugin, and it really helps you in your work, you can "
+"donate some money to motivate me for future updates. Thank you!"
+msgstr ""
+"Если вам нравится этот плагин, и он действительно помогает вам в вашей "
+"работе, вы можете пожертвовать немного денег, чтобы мотивировать меня на "
+"будущие обновления. Спасибо!"
+
+#: includes/class-ppww_metabox.php:338
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: ppww.php:28
+msgid "This section available only by subscription."
+msgstr "Этот раздел доступен только по подписке."
+
+#: ppww.php:29
+msgid "Choose the best plan for you."
+msgstr "Выберите наиболее подходящий план."
+
+#. Plugin Name of the plugin/theme
+msgid "Paid Pages with WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create paid subscriptions (WooCommerce products) to access specified pages"
+msgstr ""
+"Создавайте платные подписки (продукты WooCommerce) для доступа к указанным "
+"страницам сайта"
+
+#. Author of the plugin/theme
+msgid "xsid"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/xsid/"
+msgstr ""
+
+#~ msgid "Plug-in development donation"
+#~ msgstr "Пожертвование на развитие плагина"
+
+#~ msgid "http://URI_Of_Page_Describing_Plugin_and_Updates"
+#~ msgstr "http://URI_Of_Page_Describing_Plugin_and_Updates"
+
+#~ msgid "shvets.jan@gmail.com"
+#~ msgstr "shvets.jan@gmail.com"
+
+#~ msgid "mailto:shvets.jan@gmail.com"
+#~ msgstr "mailto:shvets.jan@gmail.com"
+
+#~ msgid "WooCommerce Paid Access"
+#~ msgstr "WooCommerce Paid Access"
+
+#, fuzzy
+#~| msgid "Plan's attributes"
+#~ msgid "Plan settings"
+#~ msgstr "Свойства плана"
+
+#~ msgid "Number of days"
+#~ msgstr "Количество дней"
+
+#~ msgid "Paid Access"
+#~ msgstr "Платный Доступ"
+
+#~ msgid "Paid access control"
+#~ msgstr "Настройки платного доступа"

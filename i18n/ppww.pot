@@ -1,0 +1,232 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Paid Pages with WooCommerce\n"
+"Report-Msgid-Bugs-To: http://support.advancedcustomfields.com\n"
+"POT-Creation-Date: 2019-07-11 23:47+0300\n"
+"PO-Revision-Date: 2018-10-12 23:00+1000\n"
+"Last-Translator: X_SID <shvets.jan@gmail.com>\n"
+"Language-Team: X_SID <shvets.jan@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ppww.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: index.php\n"
+"X-Poedit-SearchPathExcluded-1: i18n\n"
+
+#: includes/class-ppww.php:84
+msgid ""
+"Sorry, but \"Paid Pages with WooCommerce\" requires \"WooCommerce\" to be "
+"installed and active."
+msgstr ""
+
+#: includes/class-ppww.php:188
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-ppww.php:191
+#, php-format
+msgid "%1$d %2$s access for %3$d%4$s"
+msgstr ""
+
+#: includes/class-ppww.php:208 includes/class-ppww.php:235
+#: includes/class-ppww.php:267
+msgid "Subscription plans"
+msgstr ""
+
+#: includes/class-ppww.php:209
+msgid "Subscription plan"
+msgstr ""
+
+#: includes/class-ppww.php:210
+msgctxt "plan"
+msgid "Add new"
+msgstr ""
+
+#: includes/class-ppww.php:211
+msgid "Add new plan"
+msgstr ""
+
+#: includes/class-ppww.php:212
+msgid "Edit plan"
+msgstr ""
+
+#: includes/class-ppww.php:213
+msgid "New plan"
+msgstr ""
+
+#: includes/class-ppww.php:214
+msgid "View plan"
+msgstr ""
+
+#: includes/class-ppww.php:215
+msgid "Search for plans"
+msgstr ""
+
+#: includes/class-ppww.php:216
+msgid "Plans not found"
+msgstr ""
+
+#: includes/class-ppww.php:217
+msgid "Plans not found in trash"
+msgstr ""
+
+#: includes/class-ppww.php:218
+msgid "All plans"
+msgstr ""
+
+#: includes/class-ppww.php:219
+msgid "Insert into plan"
+msgstr ""
+
+#: includes/class-ppww.php:220
+msgid "Uploaded to this plan"
+msgstr ""
+
+#: includes/class-ppww.php:221
+msgid "Plan's featured image"
+msgstr ""
+
+#: includes/class-ppww.php:222
+msgid "Set plan's featured image"
+msgstr ""
+
+#: includes/class-ppww.php:223
+msgid "Remove plan's featured image"
+msgstr ""
+
+#: includes/class-ppww.php:224
+msgid "Use as plan's featured image"
+msgstr ""
+
+#: includes/class-ppww.php:225
+msgid "Filter list of plans"
+msgstr ""
+
+#: includes/class-ppww.php:226
+msgid "Plans list navigation"
+msgstr ""
+
+#: includes/class-ppww.php:227
+msgid "List of plans"
+msgstr ""
+
+#: includes/class-ppww.php:228
+msgid "View plans"
+msgstr ""
+
+#: includes/class-ppww.php:229
+msgid "Plan's attributes"
+msgstr ""
+
+#: includes/class-ppww.php:230
+msgid "Plan updated"
+msgstr ""
+
+#: includes/class-ppww.php:231
+msgid "Plan published"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:51
+msgid "Plan attributes"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:60 includes/class-ppww_metabox.php:96
+msgid "Paid access"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:101
+msgid "Subscription plan:"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:103
+msgid "None"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:142
+msgid ""
+"[number of days]=[price] pairs. Separate values ​​with commas e.g. "
+"1=10,7=20,30=50,365=100."
+msgstr ""
+
+#: includes/class-ppww_metabox.php:152
+msgid ""
+"Override default message header about access restriction. Leave blank to "
+"use default header."
+msgstr ""
+
+#: includes/class-ppww_metabox.php:156
+msgid "Use '*' to completely hide the header."
+msgstr ""
+
+#: includes/class-ppww_metabox.php:163
+msgid ""
+"Override default message body about access restriction. Leave blank to use "
+"default body."
+msgstr ""
+
+#: includes/class-ppww_metabox.php:167
+msgid "Use '*' to completely hide the body."
+msgstr ""
+
+#: includes/class-ppww_metabox.php:174
+msgid "Wrap overrided page content?"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:179
+msgid "no wrap"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:184
+msgid "Bootstrap 4 container"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:194
+msgid ""
+"If you like this plugin, and it really helps you in your work, you can "
+"donate some money to motivate me for future updates. Thank you!"
+msgstr ""
+
+#: includes/class-ppww_metabox.php:338
+msgid "Donate"
+msgstr ""
+
+#: ppww.php:28
+msgid "This section available only by subscription."
+msgstr ""
+
+#: ppww.php:29
+msgid "Choose the best plan for you."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Paid Pages with WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create paid subscriptions (WooCommerce products) to access specified pages"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "xsid"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/xsid/"
+msgstr ""
